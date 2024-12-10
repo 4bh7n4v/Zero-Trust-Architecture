@@ -21,6 +21,7 @@ This project demonstrates the setup and testing of a Software-Defined Networking
      - OpenDaylight
      * ONOS
      + Ryu
+     +  ryu-manager ryu.app.simple_switch_13 --ofp-tcp-listen-port <port>
      - Floodlight
      + Cisco APIC-EM
 3.  **Python**:
