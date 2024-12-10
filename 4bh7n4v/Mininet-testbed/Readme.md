@@ -1,4 +1,11 @@
-Mininet Envirnorment Virtual machine
-Establishing of Host and Switches to Controller
-![Screenshot 2024-12-05 021133](https://github.com/user-attachments/assets/8bbc6a63-c4a7-4635-92dd-d6b72a4ca90b)
+  Mininet Envirnorment Virtual machine
+  Establishing of Host and Switches to Controller
+  Software-Defined Networking (SDN) controllers play a central role in SDN environments by serving as the "brain" of the network. They enable centralized management, control, and orchestration of network resources.
+  Popular SDN controllers include:
+
+## OpenDaylight
+## ONOS (Open Network Operating System)
+## Ryu
+## Floodlight
+## Cisco APIC-EM
 
